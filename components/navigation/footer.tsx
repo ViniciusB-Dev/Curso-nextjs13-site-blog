@@ -37,7 +37,7 @@ export const Footer = () => {
                 </div>
                 {/* Bottom Section */}
                 <div className='flex flex-wrap items-center gap-4 border-t py-3 justify-between mt-16'>
-                    <div className='text-sm text-neutral-400'>All right are reserved | Copyright {new Date().getFullYear()}</div>
+                    <div className='text-sm text-neutral-400'>All right are reserved | Copyright ihuuu {new Date().getFullYear()}</div>
                         <div className='text-sm'>
                             Made withg love by  <Link className='underline underline-offset-4' href="https://test">@teste</Link>
                         </div>
