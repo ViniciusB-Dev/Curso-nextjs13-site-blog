@@ -16,9 +16,9 @@ export const CtaCard = () => {
                 Explore the world withe me! I'm travelling around the. I've visited most of the grat cities of and currently I'm trabelling in Join me!
             </p>
                   {/* From */}
-            <form  className="flex items-center gap-2 mt-6" action="">
-                <input className='bg-white/80 text-base rounded-md py-2 px-3 outline-none focus:ring-2 ring-neutral-600 placeholder:text-sm' type="text" name="" id="" placeholder='Write your email.'/>
-                <button className='px-3 py-2 bg-neutral-900 rounded-md bg-neural-900 text-neutral-200' >Sign Up</button>
+            <form  className="flex items-center gap-2 mt-6 w-full " action="">
+                <input className='w-full md:w-auto bg-white/80 text-base rounded-md py-2 px-3 outline-none focus:ring-2 ring-neutral-600 placeholder:text-sm' type="text" name="" id="" placeholder='Write your email. '/>
+                <button className=' px-3 whitespace-nowrap py-2 bg-neutral-900 rounded-md bg-neural-900 text-neutral-200' >Sign Up</button>
             </form>
         </div>
   

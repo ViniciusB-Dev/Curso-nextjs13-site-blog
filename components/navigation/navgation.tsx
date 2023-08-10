@@ -5,7 +5,7 @@ import { PaddingContainer } from '../layout/padding-container'
 export const Navgation = () => {
   return (
 
-    <div className='border-b sticky top-0 left-0 right-0 bg-white bg-opacity-50 backdrop-blur-md'>
+    <div className='border-b z-[999] sticky top-0 left-0 right-0 bg-white bg-opacity-50 backdrop-blur-md'>
         <PaddingContainer>
             <div className='py-6 flex items-center justify-between'>
                 

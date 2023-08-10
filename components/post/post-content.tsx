@@ -11,7 +11,7 @@ export const PostContent = ({post}: PostContentProps) => {
   return (
     <div className='space-y-2'>
         {/* Tags */}
-        <div className='text-sm flex items-center gap-2 text-neutral-400' >
+        <div className='@md:text-sm text-xs flex items-center gap-2 text-neutral-400' >
             <div className={`font-medium ${post.category.title === 'Cities' ? 'text-emerald-500' : 'text-indigo-500' }`}>{post.category.title}</div>
 
            
@@ -24,9 +24,9 @@ export const PostContent = ({post}: PostContentProps) => {
         </div>
                
                   {/* Title */}
-                  <h2 className='text-3xl font-medium'>{post.title}</h2>
+                  <h2 className='@lg:text-3xl text-xl @md:text-2xl font-medium'>{post.title}</h2>
                   {/* Description  */}
-                  <p className='leading-snug text-neutral-600'>{post.description}</p>
+                  <p className='text-base @lg:text-lg leading-snug text-neutral-600'>{post.description}</p>
 
                   <div className='flex items-center gap-2 pt-3'>Read More <ArrowRight size={14}/> </div>
         

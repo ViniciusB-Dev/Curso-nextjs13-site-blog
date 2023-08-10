@@ -3,6 +3,8 @@ npm i lucide-react
 npm i reading-time
 npm i luxon
 npm i @types/luxon -D
+npm add @tailwindcss/container-queries
+
 
 
 Parou no 3:44 / 11:51
