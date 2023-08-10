@@ -9,7 +9,7 @@ npm add @tailwindcss/container-queries
 
 Parou no 3:44 / 11:51
 
-assistindo no 26
+assistindo no 32
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
