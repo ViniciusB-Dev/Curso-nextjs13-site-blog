@@ -1,16 +1,11 @@
-
+## Bibliotecas instalad
 npm i lucide-react
 npm i reading-time
 npm i luxon
 npm i @types/luxon -D
 npm add @tailwindcss/container-queries
 
-
-
-Parou no 3:44 / 11:51
-
-assistindo no 32
-
+<img src="./assets/cap.png">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
