@@ -1,4 +1,4 @@
-## Bibliotecas instalad
+## Bibliotecas instaladas
 npm i lucide-react
 npm i reading-time
 npm i luxon
